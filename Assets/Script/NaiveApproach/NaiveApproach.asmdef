@@ -1,0 +1,16 @@
+{
+    "name": "NaiveApproach",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3202bc98caf6c4d438c6cfd4a42e570b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
