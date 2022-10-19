@@ -225,3 +225,7 @@ $RECYCLE.BIN/
 BuildAR_BurstDebugInformation_DoNotShip/
 
 BuildAR/
+
+BuildIOS/
+
+BuildIOS_BurstDebugInformation_DoNotShip/
